@@ -1,0 +1,24 @@
+{
+  "name": "secure-p2p-digital-wallet",
+  "version": "1.0.0",
+  "description": "Secure P2P Digital Wallet and Payment System using MERN Stack with ACID Transactions, Idempotency, and Subunit Precision",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "test:backend": "cd backend && npm test",
+    "test": "npm run test:backend"
+  },
+  "keywords": [
+    "fintech",
+    "p2p-payments",
+    "digital-wallet",
+    "mongodb-transactions",
+    "acid",
+    "idempotency",
+    "mern"
+  ],
+  "author": "Principal FinTech Engineer",
+  "license": "ISC"
+}
+
